@@ -6,7 +6,7 @@ Web developer & student
 
 I am a student passionate about programming and web design
 
-* 🌍  I'm based in Buenos Aires
+* 🌍  I'm from Buenos Aires
 * ✉️  You can contact me at [eliastello.dev@gmail.com](mailto:eliastello.dev@gmail.com)
 * 🧠  I'm learning TypeScript, NodeJS and MongoDB
 
