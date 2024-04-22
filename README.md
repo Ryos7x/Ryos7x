@@ -7,7 +7,7 @@ Web developer & student
 I am a student passionate about programming, web design and robots
 
 * 🌍  I'm from in Buenos Aires
-* ✉️  Contact me at [liastello.dev@gmail.com](mailto:liastello.dev@gmail.com)
+* ✉️  Contact me at [eliastello.dev@gmail.com](mailto:eliastello.dev@gmail.com)
 * 🤝  I'm studying TypeScript, Flutter and React Native
 
 ### Skills
