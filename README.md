@@ -4,7 +4,7 @@ Hi, I'm Ry0s
 Web developer & student
 -----------------------
 
-I am a student passionate about programming, web design and robotics
+I am a student passionate about programming, web design and robots
 
 * 🌍  I'm from in Buenos Aires
 * ✉️  Contact me at [liastello.dev@gmail.com](mailto:liastello.dev@gmail.com)
