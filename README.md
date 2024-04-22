@@ -18,7 +18,7 @@ I am a student passionate about programming, web design and robots
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,react,astro,bash,nextjs,tailwind,figma,notion,linux)](https://skillicons.dev)
 
 ### Socials
 
