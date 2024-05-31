@@ -8,7 +8,7 @@ I am a student passionate about programming, web design and robots
 
 * 🌍  I'm from in Buenos Aires
 * ✉️  Contact me at [eliastello.dev@gmail.com](mailto:eliastello.dev@gmail.com)
-* 🤝  I'm studying TypeScript, Flutter and React Native
+* 🤝  I'm studying TypeScript and Kotlin
 
 ### Skills
 
