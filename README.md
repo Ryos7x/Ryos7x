@@ -27,5 +27,3 @@ I am a student passionate about programming, web design and robots
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Ryos7x"><img src="https://github-readme-stats.vercel.app/api?username=Ryos7x&show_icons=true&hide=stars,prs,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ryos7x's GitHub stats" /></a>
-
-<a href="https://github.com/Ryos7x" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryos7x&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
